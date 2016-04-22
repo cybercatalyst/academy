@@ -4,18 +4,35 @@ The 9elements academy is a collection of markdown documents that gives you a var
 
 Please take a look at the folders:
 
+- Design
+  - Product
+  - Frontend
+   
+- Programming languages
+  - Ruby
+  - JavaScript
+  
+- Programming design principles
   - OOP
   - Design Patterns
-  - Ruby
-  - Rails
-  - JavaScript
   - Testing
-  - Git
-  - Frontend
+  
+- Frameworks
+  - Rails
+
+- Data management
+  - Databases
   - Security
-  - Admin
+
+- Code management
+  - Git
+  
+- Project management
   - SCRUM
-  - Product
+ 
+- Product distribution
   - SEO
   - Marketing
-  - Databases
+  
+- Maintenance
+  - Admin
